@@ -16,3 +16,7 @@ The BMO in the console really has some good frontend facial expressions and mout
 This is Just a part of an app of BMO and not the full part.
 
 I meant BMO that plays and emulates games.
+
+I will make this an open project soon. 
+
+Well after i post the architecture.
